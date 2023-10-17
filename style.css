@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=lato&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=lato&display=swap"); */
 
-/* @import url("https://fonts.googleapis.com/css?family=Tangerine"); */
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
 
 :root {
   --box-shadow: 0 2px rgb(166, 166, 166);
