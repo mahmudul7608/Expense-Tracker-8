@@ -85,7 +85,7 @@ input[type="number"] {
   width: 100%;
 }
 .btn:focus,
-.delet-btn:focus{
+.delete-btn:focus{
   outline: 0;
 }
 .list {
@@ -109,7 +109,7 @@ input[type="number"] {
 .list li.minus {
   border-right: 5px solid #d0311f;
 }
-.delet-btn {
+.delete-btn {
   cursor: pointer;
   background-color: #b04c41;
   border: 0;
@@ -124,6 +124,6 @@ input[type="number"] {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
-.list li:hover .delet-btn {
+.list li:hover .delete-btn {
   opacity: 1;
 }
